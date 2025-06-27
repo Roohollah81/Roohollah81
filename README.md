@@ -39,6 +39,9 @@ I'm a passionate software developer with experience in full-stack development, p
 
 ## 📈 GitHub Stats
 
+![Roohollah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roohollah81&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roohollah81&layout=compact)
+
 ---
 
 ## 🎓 Education
