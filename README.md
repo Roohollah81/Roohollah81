@@ -4,10 +4,9 @@
 I'm a passionate software developer with experience in full-stack development, problem solving, and building scalable applications. I love learning new technologies and contributing to open-source projects.
 
 - 🔭 I’m currently working on: better-counter
-- 🌱 I’m currently learning: TypeScript, C++, Qml
+- 🌱 I’m currently learning: TypeScript, C++, QML
 - 💬 Ask me about: JavaScript, Python, Web development
 - 📫 How to reach me: m.roohollah.v@gmail.com
-- 🌐 Portfolio: Coming soon
 
 ---
 
@@ -18,7 +17,7 @@ I'm a passionate software developer with experience in full-stack development, p
 - Python
 - C / C++
 - Java
-- Qml
+- QML
 
 ### Frameworks & Libraries
 - Node.js, Express
@@ -47,8 +46,8 @@ I'm a passionate software developer with experience in full-stack development, p
 ## 🎓 Education
 
 - B.Sc. in Software Engineering – PNU University (2020–2026)
-- Typing cource from typora website
-  
+- Typing course from Typora website
+
 ---
 
 ## 🌍 Languages
@@ -60,6 +59,5 @@ I'm a passionate software developer with experience in full-stack development, p
 
 ## 📫 Contact
 
-- 📧 Email: m.roohollah.v@gmail.com  
-- 💼 LinkedIn: Coming soon
+- 📧 Email: m.roohollah.v@gmail.com
 - 🌐 Website: Coming soon
