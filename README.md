@@ -7,7 +7,7 @@ I'm a passionate software developer with experience in full-stack development, p
 - 🌱 I’m currently learning: TypeScript, C++, Qml
 - 💬 Ask me about: JavaScript, Python, Web development
 - 📫 How to reach me: m.roohollah.v@gmail.com
-- 🌐 Portfolio:
+- 🌐 Portfolio: Coming soon
 
 ---
 
@@ -61,5 +61,5 @@ I'm a passionate software developer with experience in full-stack development, p
 ## 📫 Contact
 
 - 📧 Email: m.roohollah.v@gmail.com  
-- 💼 LinkedIn:  
-- 🌐 Website:
+- 💼 LinkedIn: Coming soon
+- 🌐 Website: Coming soon
