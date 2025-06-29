@@ -46,7 +46,6 @@ I'm a passionate software developer with experience in full-stack development, p
 ## 🎓 Education
 
 - B.Sc. in Software Engineering – PNU University (2020–2026)
-- Typing course from Typora website
 
 ---
 
